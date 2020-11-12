@@ -11,12 +11,12 @@
         {
           "name": "ArrowDot Beginner Board",
           "architecture": "avr",
-          "version": "0.1.0",
+          "version": "0.1.1",
           "category": "Contributed",
-          "url": "https://github.com/saksopheaktrapho/ArrowDot_Beginner_Board/blob/main/ArrowDot%20Beginner%20Board%20v0.1.0.zip?raw=true",
-          "archiveFileName": "ArrowDot Beginner Board v0.1.0.zip",
-          "checksum": "SHA-256:0A4C50C1B94A59D301AED6D40F4F07581EEFC99D7B38CD906FFFD6A2271CB1EB",
-          "size": "47900087",
+          "url": "https://github.com/saksopheaktrapho/ArrowDot_Beginner_Board/blob/main/ArrowDot%20Beginner%20Board%20v0.1.1.zip?raw=true",
+          "archiveFileName": "ArrowDot Beginner Board v0.1.1.zip",
+          "checksum": "SHA-256:E05CAD9A00E249E80B894308B56E1561F8B6FC44904E9FA5CDA035EA14F199DD",
+          "size": "47911281",
           "boards": [
             {
               "name": "ArrowDot Beginner Board"
